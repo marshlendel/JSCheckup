@@ -5,3 +5,9 @@ let list = [1, "2", 3];
 console.log(string);
 console.log(num);
 console.log(list);
+
+function sayHello() {
+  console.log("Hello World!");
+}
+
+sayHello();
